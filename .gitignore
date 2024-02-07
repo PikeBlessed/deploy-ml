@@ -1,7 +1,7 @@
 env/
 -ipynb_checkpoints
+report.txt
 *.csv
 *.pkl
-*.txt
 *.png
 __pycache__
